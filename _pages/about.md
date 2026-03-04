@@ -13,7 +13,7 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 
 ## News
 
-- **[Jan 2026]** I will join Bytedance as a Research Scientist Inten (Seed, GenAI for Science), where I will work on generative models and foundation models for scientific applications. 
+- **[Jan 2026]** I will join **Bytedance** as a Research Scientist Inten (Seed, GenAI for Science), where I will work on generative models and foundation models for scientific applications. 
 - **[Sep 2025]** Our paper [**"FlowDAS: A stochastic interpolant-based framework for data assimilation"**](https://neurips.cc/virtual/2025/loc/san-diego/poster/120192) is accepted at **NeurIPS 2025**.
 - **[Apr 2025]** Our paper [**"SpeRF: Shorter SPECT scans using self-supervised coordinate learning to synthesize skipped projection views"**](https://link.springer.com/article/10.1186/s40658-025-00762-3) is accepted at **EJNMMI Physics**.
 - **[Oct 2024]** Organizing the 2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences ([MSSISS](https://sites.lsa.umich.edu/mssiss/)).
@@ -26,7 +26,7 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 
 <div class="pub-entry">
   <div class="pub-teaser">
-    <img src="/images/pub/me.png" alt="FlowDAS teaser">
+    <img src="/images/pub/flowdas.png" alt="FlowDAS teaser">
   </div>
   <div class="pub-text">
     <p class="pub-title"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/120192">FlowDAS: A Stochastic Interpolant-Based Framework for Data Assimilation</a></p>
@@ -39,7 +39,7 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 
 <div class="pub-entry">
   <div class="pub-teaser">
-    <img src="/images/pub/me.png" alt="SpeRF teaser">
+    <img src="/images/pub/sperf.png" alt="SpeRF teaser">
   </div>
   <div class="pub-text">
     <p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-025-00762-3">Shorter SPECT Scans Using Self-Supervised Coordinate Learning to Synthesize Skipped Projection Views</a></p>
@@ -52,7 +52,7 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 
 <div class="pub-entry">
   <div class="pub-teaser">
-    <img src="/images/pub/me.png" alt="Y90 SPECT teaser">
+    <img src="/images/pub/y90.png" alt="Y90 SPECT teaser">
   </div>
   <div class="pub-text">
     <p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-023-00598-9">Y90 SPECT Scatter Estimation and Voxel Dosimetry Using a Unified Deep Learning Framework</a></p>
