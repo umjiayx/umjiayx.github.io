@@ -13,7 +13,7 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 
 ## News
 
-- **[Jan 2026]** I will join **Bytedance** as a Research Scientist Inten (Seed, GenAI for Science), where I will work on generative models and foundation models for scientific applications. 
+- **[Jan 2026]** I will join **Bytedance** as a Research Scientist Inten (Seed, GenAI for Science) to study GenAI methods for scientific modeling and discovery this summer. 
 - **[Sep 2025]** Our paper ["FlowDAS: A stochastic interpolant-based framework for data assimilation"](https://neurips.cc/virtual/2025/loc/san-diego/poster/120192) is accepted at **NeurIPS 2025**.
 - **[Apr 2025]** Our paper ["SpeRF: Shorter SPECT scans using self-supervised coordinate learning to synthesize skipped projection views"](https://link.springer.com/article/10.1186/s40658-025-00762-3) is accepted at **EJNMMI Physics**.
 - **[Oct 2024]** Organizing the 2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences ([MSSISS](https://sites.lsa.umich.edu/mssiss/)).
