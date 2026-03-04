@@ -20,19 +20,49 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 - **[Nov 2023]** Our paper [**"90Y SPECT Scatter estimation and voxel dosimetry in radioembolization using a unified deep learning framework"**](https://link.springer.com/article/10.1186/s40658-023-00598-9) using a unified deep learning framework for clinical SPECT imaging pipeline is accepted at **EJNMMI Physics**. 
 
 
-## Selected Publications
+## Recent Selected Publications
 
 \* Equal contribution &ensp; † Corresponding author
 
-- **FlowDAS: A Stochastic Interpolant-Based Framework for Data Assimilation** &ensp; *NeurIPS 2025*
-  S. Chen\*, **Y. Jia**\*, Q. Qu, H. Sun†, J. Fessler
-  <!-- [ArXiv]() -->
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/me.png" alt="FlowDAS teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/120192">FlowDAS: A Stochastic Interpolant-Based Framework for Data Assimilation</a></p>
+    <p class="pub-authors">Sicheng Chen*, <strong>Yixuan Jia</strong>*, Qing Qu, He Sun†, Jeffrey Fessler</p>
+    <p class="pub-venue">NeurIPS, 2025</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2411.02538">paper</a></p>
+    <p class="pub-desc">We introduce FlowDAS, a flow-based framework using stochastic interpolants to unify the learning of state transition dynamics and generative priors for data assimilation.</p>
+  </div>
+</div>
 
-- **Shorter SPECT Scans Using Self-Supervised Coordinate Learning to Synthesize Skipped Projection Views** &ensp; *EJNMMI Physics*
-  Z. Li\*, **Y. Jia**\*†, X. Xu, J. Hu, Y. Dewaraja, J. Fessler
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/me.png" alt="SpeRF teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-025-00762-3">Shorter SPECT Scans Using Self-Supervised Coordinate Learning to Synthesize Skipped Projection Views</a></p>
+    <p class="pub-authors">Zongyu Li*, <strong>Yixuan Jia</strong>*†, Xiaokun Xu, Jeffrey Hu, Yuni Dewaraja, Jeffrey Fessler</p>
+    <p class="pub-venue">EJNMMI Physics, 2025</p>
+    <p class="pub-links"><a href="https://link.springer.com/article/10.1186/s40658-025-00762-3">paper</a></p>
+    <p class="pub-desc">We adapt the neural radiance field (NeRF) concept to SPECT imaging, enabling significant reduction in acquisition time (by 2×, 4×, or 8×) via self-supervised coordinate learning to synthesize skipped projection views.</p>
+  </div>
+</div>
 
-- **Y90 SPECT Scatter Estimation and Voxel Dosimetry Using a Unified Deep Learning Framework** &ensp; *EJNMMI Physics*
-  **Y. Jia**†, Z. Li, A. Akhavanallaf, J. Fessler, Y. Dewaraja
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/me.png" alt="Y90 SPECT teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-023-00598-9">Y90 SPECT Scatter Estimation and Voxel Dosimetry Using a Unified Deep Learning Framework</a></p>
+    <p class="pub-authors"><strong>Yixuan Jia</strong>†, Zongyu Li, Azadeh Akhavanallaf, Jeffrey Fessler, Yuni Dewaraja</p>
+    <p class="pub-venue">EJNMMI Physics, 2023</p>
+    <p class="pub-links"><a href="https://link.springer.com/article/10.1186/s40658-023-00598-9">paper</a></p>
+    <p class="pub-desc">A unified three-stage deep learning framework for clinical Y90 SPECT imaging: CNN-based scatter estimation, SPECT reconstruction with scatter correction, and dose-rate map generation.</p>
+  </div>
+</div>
+
 
 ## Beyond Work
 
