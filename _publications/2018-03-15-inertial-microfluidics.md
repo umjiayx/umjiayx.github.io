@@ -7,5 +7,5 @@ excerpt: 'A review of inertial microfluidics covering fundamental principles and
 date: 2018-03-15
 venue: 'Sensors'
 paperurl: 'https://doi.org/10.3390/s18061762'
-citation: 'Y. Gou, Y. Jia, P. Wang, C. Sun. (2018). &quot;Progress of Inertial Microfluidics in Principle and Application.&quot; <i>Sensors</i>, 18(6), 1762.'
+citation: 'Y. Gou, <b>Y. Jia</b>, P. Wang, C. Sun. (2018). &quot;Progress of Inertial Microfluidics in Principle and Application.&quot; <i>Sensors</i>, 18(6), 1762.'
 ---
