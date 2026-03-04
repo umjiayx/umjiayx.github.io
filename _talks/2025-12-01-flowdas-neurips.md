@@ -4,6 +4,6 @@ collection: talks
 type: "Conference"
 permalink: /talks/2025-12-01-flowdas-neurips
 venue: "Neural Information Processing Systems (NeurIPS)"
-date: 2025-12-01
+date: 2025-12-03
 location: "San Diego, CA, USA"
 ---

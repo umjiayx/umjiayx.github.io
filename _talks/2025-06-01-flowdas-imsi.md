@@ -4,6 +4,6 @@ collection: talks
 type: "Workshop"
 permalink: /talks/2025-06-01-flowdas-imsi
 venue: "IMSI Computational Imaging Workshop"
-date: 2025-06-01
+date: 2025-10-06
 location: ""
 ---

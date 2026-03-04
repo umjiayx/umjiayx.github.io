@@ -1,5 +1,5 @@
 ---
-title: "Optimization Methods in SIPML"
+title: "Optimization Methods in Signal & Image Processing and Machine Learning"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-01-optimization
