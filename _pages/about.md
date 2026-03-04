@@ -32,7 +32,7 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
     <p class="pub-title"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/120192">FlowDAS: A Stochastic Interpolant-Based Framework for Data Assimilation</a></p>
     <p class="pub-authors">Siyi Chen*, <strong>Yixuan Jia</strong>*, Qing Qu, He Sun†, Jeffrey Fessler</p>
     <p class="pub-venue">NeurIPS, 2025</p>
-    <p class="pub-links"><a href="https://arxiv.org/abs/2411.02538">paper</a> / <a href="https://github.com/umjiayx/FlowDAS">code</a></p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2501.16642">paper</a> / <a href="https://github.com/umjiayx/FlowDAS">code</a></p>
     <p class="pub-desc">We introduce FlowDAS, a generative data assimilation framework that uses stochastic interpolants to learn observation-conditioned state transition dynamics from data, enabling step-by-step state estimation for stochastic dynamical systems without requiring known physical models.</p>
   </div>
 </div>
