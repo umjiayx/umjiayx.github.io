@@ -9,28 +9,43 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<p>* Equal contribution &ensp; † Corresponding author</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Conference Papers</h2>
+<hr />
 
+<p class="pub-title"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/120192">FlowDAS: A Stochastic Interpolant-Based Framework for Data Assimilation</a></p>
+<p class="pub-authors">Sicheng Chen*, <strong>Yixuan Jia</strong>*, Qing Qu, He Sun†, Jeffrey Fessler</p>
+<p class="pub-venue">NeurIPS, 2025</p>
+<p class="pub-links"><a href="https://arxiv.org/abs/2411.02538">paper</a> / <a href="https://github.com/umjiayx/FlowDAS">code</a></p>
+<br />
 
+<p class="pub-title"><a href="">Segment Anything Model for SPECT (SAMS): Novel Implementation in SPECT Imaging for Tumor Segmentation</a></p>
+<p class="pub-authors">Zitong Lu, Zongyu Li, <strong>Yixuan Jia</strong>, Greta Chen, Michael Roseland, Greta Mok, Yuni Dewaraja†</p>
+<p class="pub-venue">Journal of Nuclear Medicine (SNMMI), 2024</p>
+<br />
 
+<p class="pub-title"><a href="">Y-90 Bremsstrahlung SPECT Scatter Estimation and Voxel Dosimetry Using a Deep Learning Pipeline</a></p>
+<p class="pub-authors"><strong>Yixuan Jia</strong>†, Zongyu Li, Jeffrey Fessler, Yuni Dewaraja</p>
+<p class="pub-venue">Journal of Nuclear Medicine (SNMMI), 2023</p>
+<br />
+
+<h2>Journal Articles</h2>
+<hr />
+
+<p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-025-00762-3">Shorter SPECT Scans Using Self-Supervised Coordinate Learning to Synthesize Skipped Projection Views</a></p>
+<p class="pub-authors">Zongyu Li*, <strong>Yixuan Jia</strong>*†, Xiaojian Xu, Jason Hu, Yuni Dewaraja, Jeffrey Fessler</p>
+<p class="pub-venue">EJNMMI Physics, 2025</p>
+<p class="pub-links"><a href="https://link.springer.com/article/10.1186/s40658-025-00762-3">paper</a> / <a href="https://github.com/umjiayx/sperf">code</a></p>
+<br />
+
+<p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-023-00598-9">90Y SPECT Scatter Estimation and Voxel Dosimetry in Radioembolization Using a Unified Deep Learning Framework</a></p>
+<p class="pub-authors"><strong>Yixuan Jia</strong>†, Zongyu Li, Azadeh Akhavanallaf, Jeffrey Fessler, Yuni Dewaraja</p>
+<p class="pub-venue">EJNMMI Physics, 2023</p>
+<p class="pub-links"><a href="https://link.springer.com/article/10.1186/s40658-023-00598-9">paper</a> / <a href="https://github.com/umjiayx/spect0">code</a></p>
+<br />
+
+<p class="pub-title"><a href="https://doi.org/10.3390/s18061762">Progress of Inertial Microfluidics in Principle and Application</a></p>
+<p class="pub-authors">Yinuo Gou, <strong>Yixuan Jia</strong>, Peng Wang†, Changku Sun</p>
+<p class="pub-venue">Sensors, 2018</p>
+<p class="pub-links"><a href="https://doi.org/10.3390/s18061762">paper</a></p>
