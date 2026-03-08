@@ -14,10 +14,10 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 ## News
 
 - **[Jan 2026]** I will join **Bytedance** as a research scientist intern (Seed, GenAI for Science) to study GenAI methods for scientific modeling and discovery this summer. 
-- **[Sep 2025]** Our paper ["FlowDAS: A stochastic interpolant-based framework for data assimilation"](https://neurips.cc/virtual/2025/loc/san-diego/poster/120192) is accepted at **NeurIPS 2025**.
-- **[Apr 2025]** Our paper ["SpeRF: Shorter SPECT scans using self-supervised coordinate learning to synthesize skipped projection views"](https://link.springer.com/article/10.1186/s40658-025-00762-3) is accepted at **EJNMMI Physics**.
+- **[Sep 2025]** Our paper ["FlowDAS"](https://neurips.cc/virtual/2025/loc/san-diego/poster/120192) is accepted at **NeurIPS 2025**.
+- **[Apr 2025]** Our paper ["SpeRF"](https://link.springer.com/article/10.1186/s40658-025-00762-3) is accepted at **EJNMMI Physics**.
 - **[Oct 2024]** Organizing the 2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences ([MSSISS](https://sites.lsa.umich.edu/mssiss/)).
-- **[Nov 2023]** Our paper ["Y90 SPECT Scatter estimation and voxel dosimetry in radioembolization using a unified deep learning framework"](https://link.springer.com/article/10.1186/s40658-023-00598-9) is accepted at **EJNMMI Physics**. 
+- **[Nov 2023]** Our paper ["Y90 SPECT ... using a unified deep learning framework"](https://link.springer.com/article/10.1186/s40658-023-00598-9) is accepted at **EJNMMI Physics**. 
 
 
 ## Recent Selected Publications
