@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Electrical and Computer Engineering at the **University of Michigan**, advised by [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Qing Qu](https://qingqu.engin.umich.edu/). My research interests lie in **machine learning** and **generative models**, with applications in **AI for science** and **computational imaging**.
+I am a third-year PhD student in Electrical and Computer Engineering at the **University of Michigan**, advised by [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Qing Qu](https://qingqu.engin.umich.edu/) ([DeepThink Lab](https://deepthink-umich.github.io/)). My research interests lie in **machine learning** and **generative models**, with applications in **AI for science** and **computational imaging**.
 
 Before coming to UMich, I received my B.S. in Instrument Science and Technology from **Tsinghua University**. I also hold a secondary degree in Business Administration from Tsinghua.
 
