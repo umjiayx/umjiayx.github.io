@@ -17,7 +17,8 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 - **[Mar 2026]** Our recent work ["Deep Residual Learning Framework for Scatter Estimation in SPECT Imaging of Alpha Emitters"](/) is accepted at **SNMMI 2026**.
 - **[Jan 2026]** I will join **Bytedance** as a research scientist intern (Seed, GenAI for Science) to study GenAI methods for scientific modeling and discovery this summer. 
 - **[Sep 2025]** Our paper ["FlowDAS"](https://neurips.cc/virtual/2025/loc/san-diego/poster/120192) is accepted at **NeurIPS 2025**.
-<!-- - **[Apr 2025]** Our paper ["SpeRF"](https://link.springer.com/article/10.1186/s40658-025-00762-3) is accepted at **EJNMMI Physics**.
+<!-- 
+- **[Apr 2025]** Our paper ["SpeRF"](https://link.springer.com/article/10.1186/s40658-025-00762-3) is accepted at **EJNMMI Physics**.
 - **[Oct 2024]** Organizing the 2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences ([MSSISS](https://sites.lsa.umich.edu/mssiss/)).
 - **[Nov 2023]** Our paper ["Y90 SPECT ... using a unified deep learning framework"](https://link.springer.com/article/10.1186/s40658-023-00598-9) is accepted at **EJNMMI Physics**.  -->
 
