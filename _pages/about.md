@@ -13,17 +13,31 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 
 ## News
 
+- **[Mar 2026]** New preprint: ["MCLR: Establishing the Equivalence between Classifier-Free Guidance and Alignment Objectives"](https://arxiv.org/abs/2603.22364) is now online.
 - **[Mar 2026]** Our recent work ["Deep Residual Learning Framework for Scatter Estimation in SPECT Imaging of Alpha Emitters"](/) is accepted at **SNMMI 2026**.
 - **[Jan 2026]** I will join **Bytedance** as a research scientist intern (Seed, GenAI for Science) to study GenAI methods for scientific modeling and discovery this summer. 
 - **[Sep 2025]** Our paper ["FlowDAS"](https://neurips.cc/virtual/2025/loc/san-diego/poster/120192) is accepted at **NeurIPS 2025**.
-- **[Apr 2025]** Our paper ["SpeRF"](https://link.springer.com/article/10.1186/s40658-025-00762-3) is accepted at **EJNMMI Physics**.
+<!-- - **[Apr 2025]** Our paper ["SpeRF"](https://link.springer.com/article/10.1186/s40658-025-00762-3) is accepted at **EJNMMI Physics**.
 - **[Oct 2024]** Organizing the 2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences ([MSSISS](https://sites.lsa.umich.edu/mssiss/)).
-- **[Nov 2023]** Our paper ["Y90 SPECT ... using a unified deep learning framework"](https://link.springer.com/article/10.1186/s40658-023-00598-9) is accepted at **EJNMMI Physics**. 
+- **[Nov 2023]** Our paper ["Y90 SPECT ... using a unified deep learning framework"](https://link.springer.com/article/10.1186/s40658-023-00598-9) is accepted at **EJNMMI Physics**.  -->
 
 
 ## Recent Selected Publications
 
 \* Equal contribution &ensp; † Corresponding author
+
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/mclr.jpeg" alt="MCLR teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://arxiv.org/abs/2603.22364">MCLR: Improving Conditional Modeling in Visual Generative Models via Inter-Class Likelihood-Ratio Maximization</a></p>
+    <p class="pub-authors">Xiang Li, <strong>Yixuan Jia</strong>, Xiao Li, Jeffrey Fessler, Rongrong Wang, Qing Qu</p>
+    <p class="pub-venue">arXiv preprint, 2026</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2603.22364">paper</a></p>
+    <p class="pub-desc">We propose MCLR, a principled alignment objective that maximizes inter-class likelihood-ratios during training, enabling diffusion models to achieve classifier-free guidance-like improvements under standard sampling without inference-time guidance. We further establish a formal equivalence between CFG and alignment-based objectives.</p>
+  </div>
+</div>
 
 <div class="pub-entry">
   <div class="pub-teaser">
