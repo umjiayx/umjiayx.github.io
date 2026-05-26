@@ -21,13 +21,11 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 - **[Sep 2025]** Our paper ["FlowDAS"](https://neurips.cc/virtual/2025/loc/san-diego/poster/120192) is accepted at **NeurIPS 2025**.
 
 
-## Recent Selected Publications
-
 You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
 
 \* Equal contribution &ensp; † Corresponding author
 
-### Highlighted Publications
+## Highlighted Publications
 
 <div class="pub-entry">
   <div class="pub-teaser">
@@ -81,7 +79,7 @@ You can also find my articles on [my Google Scholar profile]({{ site.author.goog
   </div>
 </div>
 
-### Other Publications
+## Other Publications
 
 <div class="pub-entry">
   <div class="pub-teaser">
