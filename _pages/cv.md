@@ -9,4 +9,6 @@ redirect_from:
 
 <a href="/files/CV_YIXUAN_JIA.pdf" class="btn btn--primary">Download CV (PDF)</a>
 
+<p><em>Last updated: April 2026</em></p>
+
 <iframe src="/files/CV_YIXUAN_JIA.pdf" width="100%" height="800" style="border: none;"></iframe>
