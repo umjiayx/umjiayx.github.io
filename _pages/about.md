@@ -20,11 +20,11 @@ Before coming to UMich, I received my B.S. in Instrument Science and Technology 
 - **[Sep 2025]** Our paper ["FlowDAS: A Stochastic Interpolant-based Framework for Data Assimilation"](https://neurips.cc/virtual/2025/loc/san-diego/poster/120192) is accepted at **NeurIPS 2025** main track.
 
 
+## Highlighted Publications
+
 You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
 
 \* Equal contribution &ensp; † Corresponding author
-
-## Highlighted Publications
 
 <div class="pub-entry">
   <div class="pub-teaser">
