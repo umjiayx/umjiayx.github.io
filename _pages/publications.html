@@ -6,57 +6,102 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <p>You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
 {% endif %}
 
 <p>* Equal contribution &ensp; † Corresponding author</p>
 
-<h2>Preprints</h2>
-<hr />
+<h2 id="highlighted-publications">Highlighted Publications</h2>
 
-<p class="pub-title"><a href="https://arxiv.org/abs/2603.22364">MCLR: Improving Conditional Modeling in Visual Generative Models via Inter-Class Likelihood-Ratio Maximization and Establishing the Equivalence between Classifier-Free Guidance and Alignment Objectives</a></p>
-<p class="pub-authors">Xiang Li, <strong>Yixuan Jia</strong>, Xiao Li, Jeffrey Fessler, Rongrong Wang, Qing Qu</p>
-<p class="pub-venue">arXiv preprint, 2026</p>
-<p class="pub-links"><a href="https://arxiv.org/abs/2603.22364">paper</a></p>
-<br />
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/ForcingDAS.png" alt="ForcingDAS teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://arxiv.org/abs/2605.14285">ForcingDAS: Unified and Robust Data Assimilation via Diffusion Forcing</a></p>
+    <p class="pub-authors"><strong>Yixuan Jia</strong>, Siyi Chen, Yida Pan, Xiao Li, Lianghe Shi, Chanyong Jung, Haijie Yuan, Ismail Alkhouri, Yue Cynthia Wu, Saiprasad Ravishankar, Jeffrey Fessler, Qing Qu</p>
+    <p class="pub-venue">ICML 2026 Workshop (FoGen)</p>
+    <p class="pub-links"><a class="pub-btn pub-btn--paper" href="https://arxiv.org/abs/2605.14285"><i class="fas fa-file-lines"></i> Paper</a> <a class="pub-btn pub-btn--code" href="https://github.com/umjiayx/ForcingDAS"><i class="fab fa-github"></i> Code</a></p>
+    <p class="pub-desc">We introduce ForcingDAS, a diffusion-forcing data assimilation framework that learns a joint-trajectory prior to reduce error accumulation, with a single trained model spanning the full filtering-to-smoothing spectrum at inference time.</p>
+  </div>
+</div>
 
-<h2>Conference Papers</h2>
-<hr />
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/flowdas.png" alt="FlowDAS teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/120192">FlowDAS: A Stochastic Interpolant-Based Framework for Data Assimilation</a></p>
+    <p class="pub-authors">Siyi Chen*, <strong>Yixuan Jia</strong>*, Qing Qu, He Sun†, Jeffrey Fessler</p>
+    <p class="pub-venue">NeurIPS, 2025</p>
+    <p class="pub-links"><a class="pub-btn pub-btn--paper" href="https://arxiv.org/abs/2501.16642"><i class="fas fa-file-lines"></i> Paper</a> <a class="pub-btn pub-btn--code" href="https://github.com/umjiayx/FlowDAS"><i class="fab fa-github"></i> Code</a></p>
+    <p class="pub-desc">We introduce FlowDAS, a generative data assimilation framework that uses stochastic interpolants to learn observation-conditioned state transition dynamics from data, enabling step-by-step state estimation for stochastic dynamical systems without requiring known physical models.</p>
+  </div>
+</div>
 
-<p class="pub-title"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/120192">FlowDAS: A Stochastic Interpolant-Based Framework for Data Assimilation</a></p>
-<p class="pub-authors">Siyi Chen*, <strong>Yixuan Jia</strong>*, Qing Qu, He Sun†, Jeffrey Fessler</p>
-<p class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS), 2025</p>
-<p class="pub-links"><a href="https://arxiv.org/abs/2501.16642">paper</a> / <a href="https://github.com/umjiayx/FlowDAS">code</a></p>
-<br />
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/sperf.png" alt="SpeRF teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-025-00762-3">Shorter SPECT Scans Using Self-Supervised Coordinate Learning to Synthesize Skipped Projection Views</a></p>
+    <p class="pub-authors">Zongyu Li*, <strong>Yixuan Jia</strong>*†, Xiaojian Xu, Jason Hu, Yuni Dewaraja, Jeffrey Fessler</p>
+    <p class="pub-venue">EJNMMI Physics, 2025</p>
+    <p class="pub-links"><a class="pub-btn pub-btn--paper" href="https://link.springer.com/article/10.1186/s40658-025-00762-3"><i class="fas fa-file-lines"></i> Paper</a> <a class="pub-btn pub-btn--code" href="https://github.com/umjiayx/sperf"><i class="fab fa-github"></i> Code</a></p>
+    <p class="pub-desc">We adapt the neural radiance field (NeRF) concept to SPECT imaging, enabling significant reduction in acquisition time (by 2×, 4×, or 8×) via self-supervised coordinate learning to synthesize skipped projection views.</p>
+  </div>
+</div>
 
-<p class="pub-title"><a href="https://jnm.snmjournals.org/content/65/supplement_2/241583.abstract">Segment Anything Model for SPECT (SAMS): Novel Implementation in SPECT Imaging for Tumor Segmentation</a></p>
-<p class="pub-authors">Zhonglin Lu, Zongyu Li, <strong>Yixuan Jia</strong>, Gefei Chen, Molly Roseland, Greta Mok, Yuni Dewaraja†</p>
-<p class="pub-venue">Journal of Nuclear Medicine (SNMMI), 2024</p>
-<p class="pub-links"><a href="https://jnm.snmjournals.org/content/65/supplement_2/241583.abstract">paper</a></p>
-<br />
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/y90.png" alt="Y90 SPECT teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-023-00598-9">Y90 SPECT Scatter Estimation and Voxel Dosimetry Using a Unified Deep Learning Framework</a></p>
+    <p class="pub-authors"><strong>Yixuan Jia</strong>†, Zongyu Li, Azadeh Akhavanallaf, Jeffrey Fessler, Yuni Dewaraja</p>
+    <p class="pub-venue">EJNMMI Physics, 2023</p>
+    <p class="pub-links"><a class="pub-btn pub-btn--paper" href="https://link.springer.com/article/10.1186/s40658-023-00598-9"><i class="fas fa-file-lines"></i> Paper</a> <a class="pub-btn pub-btn--code" href="https://github.com/umjiayx/spect0"><i class="fab fa-github"></i> Code</a></p>
+    <p class="pub-desc">We developed a unified three-stage deep learning framework for clinical Y90 SPECT imaging: CNN-based scatter estimation, SPECT reconstruction with scatter correction, and dose-rate map generation.</p>
+  </div>
+</div>
 
-<p class="pub-title"><a href="https://jnm.snmjournals.org/content/64/supplement_1/P1211.abstract">Y-90 Bremsstrahlung SPECT Scatter Estimation and Voxel Dosimetry Using a Deep Learning Pipeline</a></p>
-<p class="pub-authors"><strong>Yixuan Jia</strong>†, Zongyu Li, Jeffrey Fessler, Yuni Dewaraja</p>
-<p class="pub-venue">Journal of Nuclear Medicine (SNMMI), 2023</p>
-<p class="pub-links"><a href="https://jnm.snmjournals.org/content/64/supplement_1/P1211.abstract">paper</a></p>
-<br />
+<h2 id="other-publications">Other Publications</h2>
 
-<h2>Journal Articles</h2>
-<hr />
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/mclr.jpeg" alt="MCLR teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://arxiv.org/abs/2603.22364">MCLR: Improving Conditional Modeling in Visual Generative Models via Inter-Class Likelihood-Ratio Maximization</a></p>
+    <p class="pub-authors">Xiang Li, <strong>Yixuan Jia</strong>, Xiao Li, Jeffrey Fessler, Rongrong Wang, Qing Qu</p>
+    <p class="pub-venue">ICML 2026 Workshop (FoGen)</p>
+    <p class="pub-links"><a class="pub-btn pub-btn--paper" href="https://arxiv.org/abs/2603.22364"><i class="fas fa-file-lines"></i> Paper</a></p>
+    <p class="pub-desc">We propose MCLR, a principled alignment objective that maximizes inter-class likelihood-ratios during training, enabling diffusion models to achieve classifier-free guidance-like improvements under standard sampling without inference-time guidance. We further establish a formal equivalence between CFG and alignment-based objectives.</p>
+  </div>
+</div>
 
-<p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-025-00762-3">Shorter SPECT Scans Using Self-Supervised Coordinate Learning to Synthesize Skipped Projection Views</a></p>
-<p class="pub-authors">Zongyu Li*, <strong>Yixuan Jia</strong>*†, Xiaojian Xu, Jason Hu, Yuni Dewaraja, Jeffrey Fessler</p>
-<p class="pub-venue">EJNMMI Physics, 2025</p>
-<p class="pub-links"><a href="https://link.springer.com/article/10.1186/s40658-025-00762-3">paper</a> / <a href="https://github.com/umjiayx/sperf">code</a></p>
-<br />
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/SAMS.png" alt="SAMS teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://jnm.snmjournals.org/content/65/supplement_2/241583.abstract">Segment Anything Model for SPECT (SAMS): Novel Implementation in SPECT Imaging for Tumor Segmentation</a></p>
+    <p class="pub-authors">Zhonglin Lu, Zongyu Li, <strong>Yixuan Jia</strong>, Gefei Chen, Molly Roseland, Greta Mok, Yuni Dewaraja†</p>
+    <p class="pub-venue">Journal of Nuclear Medicine (SNMMI), 2024</p>
+    <p class="pub-links"><a class="pub-btn pub-btn--paper" href="https://jnm.snmjournals.org/content/65/supplement_2/241583.abstract"><i class="fas fa-file-lines"></i> Paper</a></p>
+    <p class="pub-desc">We adapt the Segment Anything Model (SAM) to SPECT imaging, enabling accurate tumor segmentation in nuclear medicine images.</p>
+  </div>
+</div>
 
-<p class="pub-title"><a href="https://link.springer.com/article/10.1186/s40658-023-00598-9">90Y SPECT Scatter Estimation and Voxel Dosimetry in Radioembolization Using a Unified Deep Learning Framework</a></p>
-<p class="pub-authors"><strong>Yixuan Jia</strong>†, Zongyu Li, Azadeh Akhavanallaf, Jeffrey Fessler, Yuni Dewaraja</p>
-<p class="pub-venue">EJNMMI Physics, 2023</p>
-<p class="pub-links"><a href="https://link.springer.com/article/10.1186/s40658-023-00598-9">paper</a> / <a href="https://github.com/umjiayx/spect0">code</a></p>
-<br />
-
-<p class="pub-title"><a href="https://doi.org/10.3390/s18061762">Progress of Inertial Microfluidics in Principle and Application</a></p>
-<p class="pub-authors">Yixing Gou, <strong>Yixuan Jia</strong>, Peng Wang†, Changku Sun</p>
-<p class="pub-venue">Sensors, 2018</p>
-<p class="pub-links"><a href="https://doi.org/10.3390/s18061762">paper</a></p>
+<div class="pub-entry">
+  <div class="pub-teaser">
+    <img src="/images/pub/progress_of_inertial.png" alt="Inertial microfluidics teaser">
+  </div>
+  <div class="pub-text">
+    <p class="pub-title"><a href="https://www.mdpi.com/1424-8220/18/6/1762">Progress of Inertial Microfluidics in Principle and Application</a></p>
+    <p class="pub-authors">Yixing Gou, <strong>Yixuan Jia</strong>, Peng Wang†, Changku Sun</p>
+    <p class="pub-venue">Sensors, 2018</p>
+    <p class="pub-links"><a class="pub-btn pub-btn--paper" href="https://www.mdpi.com/1424-8220/18/6/1762"><i class="fas fa-file-lines"></i> Paper</a></p>
+    <p class="pub-desc">A comprehensive review of inertial microfluidics, covering the underlying physical principles and applications in particle manipulation, separation, and biomedical analysis.</p>
+  </div>
+</div>

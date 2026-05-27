@@ -44,10 +44,53 @@
 
     .pub-links {
       font-size: 0.85em;
-      margin: 0 0 0.4em;
+      margin: 0 0 0.5em;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45em;
 
-      a {
+      .pub-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4em;
+        padding: 0.2em 0.75em;
+        border-radius: 999px;
+        font-size: 0.95em;
+        font-weight: 600;
+        line-height: 1.5;
+        color: #fff;
         text-decoration: none;
+        border: 1px solid transparent;
+        transition: background 0.15s ease, filter 0.15s ease;
+
+        i {
+          font-size: 0.95em;
+        }
+
+        &:hover,
+        &:focus {
+          color: #fff;
+          text-decoration: none;
+        }
+      }
+
+      .pub-btn--paper {
+        background: var(--global-link-color);
+
+        &:hover,
+        &:focus {
+          filter: brightness(0.9);
+        }
+      }
+
+      .pub-btn--code {
+        background: #24292f;
+        border-color: rgba(255, 255, 255, 0.12);
+
+        &:hover,
+        &:focus {
+          background: #3a4047;
+        }
       }
     }
 
