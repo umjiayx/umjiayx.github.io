@@ -11,7 +11,7 @@ I am a third-year PhD student in Electrical and Computer Engineering at the **Un
 
 ## Research Interest
 
-My research interests lie in **generative models** and **representation learning**, with applications in **AI for science** and **computational imaging**. I am particularly interested in **diffusion models**, **data assimilation**, and **inverse problems**.
+My research interests focus on **generative models** and **representation learning**, particularly as applied to **AI for science** and **computational imaging**. I have a strong interest in **diffusion models** and **data assimilation**. Recently, I have started exploring **Video Generation** and **World Models**, as I find these areas share foundational similarities with my previous work.
 
 ## Education
 
