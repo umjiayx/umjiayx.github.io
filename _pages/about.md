@@ -7,12 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Electrical and Computer Engineering at the **University of Michigan**, advised by [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Qing Qu](https://qingqu.engin.umich.edu/) ([DeepThink Lab](https://deepthink-umich.github.io/)). My research interests lie in **generative models** and **representation learning**, with applications in **AI for science** and **computational imaging**.
+I am a third-year PhD student in Electrical and Computer Engineering at the **University of Michigan**, advised by [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Qing Qu](https://qingqu.engin.umich.edu/) ([DeepThink Lab](https://deepthink-umich.github.io/)).
 
-Before coming to UMich, I received my B.S. in Instrument Science and Technology from **Tsinghua University**. I also hold a secondary degree in Business Administration from Tsinghua.
+## Research Interest
+
+My research interests lie in **generative models** and **representation learning**, with applications in **AI for science** and **computational imaging**. I am particularly interested in **diffusion models**, **data assimilation**, and **inverse problems**.
+
+## Education
+
+- **University of Michigan** — Ph.D. in Electrical and Computer Engineering &nbsp;·&nbsp; *Jan 2023 – Present*  
+  Advised by [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Qing Qu](https://qingqu.engin.umich.edu/) ([DeepThink Lab](https://deepthink-umich.github.io/))
+- **University of Michigan** — M.S. in Electrical and Computer Engineering &nbsp;·&nbsp; *Sept 2020 – Dec 2022*
+- **Tsinghua University** — B.S. in Instrument Science and Technology (Primary) &nbsp;·&nbsp; *Sept 2014 – Jul 2018*
+- **Tsinghua University** — Bachelor of Business Administration (Secondary) &nbsp;·&nbsp; *Sept 2015 – Jul 2018*
 
 ## News
 
+- **[May 2026]** Our paper ["Imaging-101: Benchmarking LLM Agents for Scientific Computational Imaging"](https://umjiayx.github.io) is accepted at **ICCP 2026**.
 - **[May 2026]** Four papers are accepted at **ICML 2026** workshop (FoGen): [ForcingDAS](https://arxiv.org/abs/2605.14285), [ICR](https://umjiayx.github.io), [MCLR](https://arxiv.org/abs/2603.22364), and [DFD](https://umjiayx.github.io).
 - **[May 2026]** I have joined **Bytedance** as a research scientist intern (Seed, GenAI for Science), studying GenAI methods for scientific modeling and discovery.
 - **[Apr 2026]** Our paper ["Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles"](https://umjiayx.github.io) is accepted at **ICML 2026** main track.
