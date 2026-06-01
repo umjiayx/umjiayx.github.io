@@ -17,11 +17,10 @@ Recently, I have started exploring **Video Generation** and **World Models**, as
 
 ## Education
 
-- **University of Michigan** — Ph.D. in Electrical and Computer Engineering &nbsp;·&nbsp; *Jan 2023 – Present*  
-  Advised by [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Qing Qu](https://qingqu.engin.umich.edu/) ([DeepThink Lab](https://deepthink-umich.github.io/))
-- **University of Michigan** — M.S. in Electrical and Computer Engineering &nbsp;·&nbsp; *Sept 2020 – Dec 2022*
-- **Tsinghua University** — B.S. in Instrument Science and Technology (Primary) &nbsp;·&nbsp; *Sept 2014 – Jul 2018*
-- **Tsinghua University** — Bachelor of Business Administration (Secondary) &nbsp;·&nbsp; *Sept 2015 – Jul 2018*
+- **University of Michigan**, Ph.D. in Electrical Engineering and Computer Science
+- **University of Michigan**, M.S. in Electrical Engineering and Computer Science
+- **Tsinghua University**, B.S. in Instrument Science and Technology (Primary)
+- **Tsinghua University**, Bachelor of Business Administration (Secondary)
 
 ## News
 
