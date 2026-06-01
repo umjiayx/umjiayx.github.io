@@ -11,9 +11,7 @@ I am a third-year PhD student in Electrical and Computer Engineering at the **Un
 
 ## Research Interest
 
-My research interests focus on **generative models** and **representation learning**, particularly as applied to **AI for science** and **computational imaging**. I have a strong interest in **diffusion models** and **data assimilation**. 
-
-Recently, I have started exploring **Video Generation** and **World Models**, as I find these areas share foundational similarities with my previous work.
+My research interests focus on **generative models** (especially **diffusion models**) and **representation learning**, with applications to **data assimilation** and **computational imaging**. Recently, I have started exploring **video generation** and **world models**, as I find these areas share foundational similarities with my previous work.
 
 ## Education
 
@@ -33,4 +31,4 @@ Recently, I have started exploring **Video Generation** and **World Models**, as
 
 ## Beyond Work
 
-I have two adorable kittens, Rainier and Mia! In my spare time, I enjoy driving around, playing and watching soccer — huge fan of Leo Messi 🐐.
+I have two adorable kittens, Rainier and Mia! In my spare time, I enjoy driving around, playing and watching soccer. I'm a huge fan of Leo Messi 🐐.
