@@ -22,6 +22,9 @@ My research interests focus on **generative models** (especially **diffusion mod
 
 ## News
 
+- **[Sep 2026]** I am honored to receive the [**Riethmiller Fellowship**](https://projects.propublica.org/nonprofits/organizations/386610474).
+- **[Sep 2026]** Our paper ["MCLR: Improving Conditional Modeling in Visual Generative Models via Inter-Class Likelihood-Ratio Maximization"](https://arxiv.org/abs/2603.22364) is accepted at **NeurIPS 2026** main track.
+- **[Sep 2026]** Our work "Backward-Consistent Diffusion Sampling for Sparsely Observed Inverse PDE Problems" is accepted at **NeurIPS 2026** workshop (STODY).
 - **[May 2026]** Our paper ["Imaging-101: Benchmarking LLM Agents for Scientific Computational Imaging"](https://umjiayx.github.io) is accepted at **ICCP 2026 (Oral)**.
 - **[May 2026]** Four papers are accepted at **ICML 2026** workshop (FoGen): **[ForcingDAS](https://arxiv.org/abs/2605.14285) (Spotlight)**, [ICR](https://arxiv.org/abs/2606.09718), **[MCLR](https://arxiv.org/abs/2603.22364) (Oral)**, and [DFD](https://arxiv.org/abs/2606.18478).
 - **[May 2026]** I have joined **Bytedance** as a research scientist intern (Seed, GenAI for Science), working on agentic scientific discovery.
