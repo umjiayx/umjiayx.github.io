@@ -22,7 +22,7 @@ My research interests focus on **generative models** (especially **diffusion mod
 
 ## News
 
-- **[Nov 2026]** I am honored to receive a [**MiraclePlus Compute Grant**](https://www.miracleplus.com/en/compute/) of **$250,000 in GPU credits** to support my research on generative AI for science.
+- **[Nov 2026]** I am honored to receive a [**MiraclePlus Compute Grant**](https://www.miracleplus.com/en/compute/) of **$40,000 in GPU credits** to support my research on generative AI for science.
 - **[Sep 2026]** I am honored to receive the [**Riethmiller Fellowship**](https://projects.propublica.org/nonprofits/organizations/386610474).
 - **[Sep 2026]** Our paper ["MCLR: Improving Conditional Modeling in Visual Generative Models via Inter-Class Likelihood-Ratio Maximization"](https://arxiv.org/abs/2603.22364) is accepted at **NeurIPS 2026** main track.
 - **[Sep 2026]** Our work ["Backward-Consistent Diffusion Sampling for Sparsely Observed PDE Inverse Problems"](https://arxiv.org/abs/2610.04624) is accepted at **NeurIPS 2026** workshop (STODY).
